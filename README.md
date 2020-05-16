@@ -1,6 +1,6 @@
 # NetEllerDisk
 
-NetEllerDisk is simple Python script which is born for the sole porpose of utilizing disk and network resources in parallel to detect the actual bottleneck in complex environments
+NetEllerDisk is a simple Python script which is born for the sole porpose of utilizing disk and network resources in parallel to detect the actual bottleneck in complex environments
 
 ## Usage
 
